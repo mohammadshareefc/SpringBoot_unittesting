@@ -1,0 +1,4 @@
+com\example\springboot_unit_testing\SpringbootUnitTestingApplicationTests.class
+com\example\springboot_unit_testing\repository\UserRepositoryTest.class
+com\example\springboot_unit_testing\services\UserServiceTest.class
+com\example\springboot_unit_testing\controller\UserControllerTest.class
